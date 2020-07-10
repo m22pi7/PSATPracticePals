@@ -6,16 +6,16 @@ sensitive: they can
 sensitive in order to 
 3
 Choice C is the best answer. This choice most effectively combines the sentences with a colon without repeating or deleting important information or changing the intended meaning of the sentences. The colon in this choice is used to indicate that what follows it explains and emphasizes the detectors' extreme sensitivity.
-Choices A, B, and D are incorrect because they don’t show the true relationship between what’s discussed in the sentences in question. The conjunction “because” in choice A incorrectly indicates that the detectors are sensitive as a result of detecting microscopic compression or stretching in gravitational waves. The transitional phrase “in addition to” in choice B incorrectly suggests that the detectors’ sensitivity and their ability to detect changes in waves are two separate abilities. The transitional phrase “in order to” in choice D incorrectly indicates that the detectors are sensitive so that they can determine if a wave has transformed by 1/10,000 the width of a proton.
-He spun his guitar while playing and slapped the body of the instrument for rhythmic effect; he even perfected startling tricks like playing behind his head and plucking the strings with his teeth, to the delight of listeners. His songs, first recorded in 1929, could be about anything from love affairs to floods to an insect—the cotton-eating boll weevil, immortalized in Patton’s “Mississippi Boweavil Blues.”
+Choices A, B, and D are incorrect because they don't show the true relationship between what's discussed in the sentences in question. The conjunction “because” in choice A incorrectly indicates that the detectors are sensitive as a result of detecting microscopic compression or stretching in gravitational waves. The transitional phrase “in addition to” in choice B incorrectly suggests that the detectors' sensitivity and their ability to detect changes in waves are two separate abilities. The transitional phrase “in order to” in choice D incorrectly indicates that the detectors are sensitive so that they can determine if a wave has transformed by 1/10,000 the width of a proton.
+He spun his guitar while playing and slapped the body of the instrument for rhythmic effect; he even perfected startling tricks like playing behind his head and plucking the strings with his teeth, to the delight of listeners. His songs, first recorded in 1929, could be about anything from love affairs to floods to an insect—the cotton-eating boll weevil, immortalized in Patton's “Mississippi Boweavil Blues.”
 Which choice most clearly connects the information in the previous sentence to the information immediately after the underlined portion?
 NO CHANGE 
 Such antics framed stories told in song that were often mournful but were sometimes humorous as well, 
-Other blues musicians, such as Willie Brown, were influenced by Patton’s ability to sing 
+Other blues musicians, such as Willie Brown, were influenced by Patton's ability to sing 
 Patton, who would one day be banished from Dockery Farms, recorded songs 
 2
-Choice B is the best answer. This choice most clearly connects the previous sentence’s details of Patton's ingenious guitar feats to the information after the underlined portion, which describes the subject matter of his songs.
-Choices A, C, and D are incorrect because none of these clauses clearly connects the information in the previous sentence to the information after the underlined portion. The year Patton began recording his songs (choice A), the influence of his singing (choice C), and his eventual banishment from Dockery Farms (choice D) don’t connect the examples of Patton’s guitar stunts to a description of the topics covered in his songs.
+Choice B is the best answer. This choice most clearly connects the previous sentence's details of Patton's ingenious guitar feats to the information after the underlined portion, which describes the subject matter of his songs.
+Choices A, C, and D are incorrect because none of these clauses clearly connects the information in the previous sentence to the information after the underlined portion. The year Patton began recording his songs (choice A), the influence of his singing (choice C), and his eventual banishment from Dockery Farms (choice D) don't connect the examples of Patton's guitar stunts to a description of the topics covered in his songs.
 Professionals who work in this field are often referred to as nutritionists, but in fact that term has no legal definition and does not represent any specific training. The titles of registered dietitian (RD) and certified nutrition specialist (CNS), * nonetheless, are legally regulated in the United States.
 X
 NO CHANGE 
@@ -34,7 +34,7 @@ certification,
 4
 Choice D is the best answer. Only a comma is needed to separate the introductory dependent clause beginning with “although” from the independent clause beginning with “the complexities.”
 Choices A, B, and C are incorrect because neither the conjunctive adverb “however” nor the conjunction “but” (regardless of punctuation) is appropriate given that the introductory dependent clause already uses “although” to set up a relationship in which something is true despite the fact that something else is also true.
-Though nobody is sure exactly when or how the final panels of the Bayeux Tapestry were lost, scholars believe the original piece most likely ended with William the Conqueror’s coronation as king of England. *The piece begins with an image of King Edward the Confessor sitting on the throne of England.
+Though nobody is sure exactly when or how the final panels of the Bayeux Tapestry were lost, scholars believe the original piece most likely ended with William the Conqueror's coronation as king of England. *The piece begins with an image of King Edward the Confessor sitting on the throne of England.
 Which choice provides the most logical transition from the previous sentence to the sentence that follows?
 The story of the Battle of Hastings is a familiar one to many. 
 The intact tapestry shows the coronations of two kings. 
@@ -42,13 +42,13 @@ Evidence for this theory can be found earlier in the tapestry.
 With his victory, William would become the first Norman king of England. 
 3
 Choice C is the best answer. This choice provides the most logical transition from the previous sentence to the sentence that follows. The previous sentence indicates that scholars believe that the missing piece of the tapestry most likely portrayed William the Conqueror's coronation as king of England. The sentence that follows the transition offers support for the idea that William the Conqueror's coronation would logically be on the missing piece of tapestry, since the earlier panels contain images of the coronations of two previous kings.
-Choices A and D are incorrect because they don't logically connect the two sentences. Choice A mentions that the “story of the Battle of Hastings is a familiar one to many,” and choice D states that the victorious “William would become the first Norman king of England.” Neither choice is relevant to the depiction of William the Conqueror's coronation in the tapestry. Choice B is incorrect because it doesn’t provide any transitional link between the two sentences, although it does refer to the coronations of two previous kings in the part of the tapestry that's intact.
+Choices A and D are incorrect because they don't logically connect the two sentences. Choice A mentions that the “story of the Battle of Hastings is a familiar one to many,” and choice D states that the victorious “William would become the first Norman king of England.” Neither choice is relevant to the depiction of William the Conqueror's coronation in the tapestry. Choice B is incorrect because it doesn't provide any transitional link between the two sentences, although it does refer to the coronations of two previous kings in the part of the tapestry that's intact.
 A friend challenged Russell to show what the original ending of the tapestry might have looked like. This spurred Russell on to start working with a local artist, Pauline Black, in 2012.
 Which choice most effectively combines the sentences at the underlined portion?
 Russell was challenged by a friend to show what the original ending of the tapestry might have looked like, and this challenge spurred her on to start 
 Challenged by a friend to show what the original ending of the tapestry might have looked like, Russell was spurred on by this challenge to start 
 Spurred on by a friend who challenged her to show what the original ending of the tapestry might have looked like, Russell started 
-A friend’s challenge to Russell was for her to show what the original ending of the tapestry might have looked like; this spurred Russell on and she started
+A friend's challenge to Russell was for her to show what the original ending of the tapestry might have looked like; this spurred Russell on and she started
 3
 Choice C is the best answer. This choice most effectively combines the sentences at the underlined portion without repeating or deleting important information. In this choice, Russell's name isn't repeated unnecessarily, and the participial form of “spurred” is used in the introductory phrase rather than later in the sentence to create the most concise sentence.
 Choices A and B are incorrect because they repeat the words “challenge” and “challenged” unnecessarily. Choice D is incorrect because of the unclear antecedent of the pronoun “her.”
@@ -60,7 +60,7 @@ economically, though;
 economically—though; 
 3
 Choice C is the best answer. The comma is used correctly to separate the adverbs “economically” and “though.” The semicolon is used correctly to separate two independent clauses.
-Choices A and B are incorrect because they result in comma splices. Either a semicolon or a period is needed to separate the two independent clauses. Choice D is incorrect because a dash isn’t used to separate adverbs.
+Choices A and B are incorrect because they result in comma splices. Either a semicolon or a period is needed to separate the two independent clauses. Choice D is incorrect because a dash isn't used to separate adverbs.
 They exhibit what scientists call vocal * learning; and this is the ability to refer to an object or individual using a learned sound. 
 X
 NO CHANGE 
@@ -69,7 +69,7 @@ learning; which
 learning. This 
 4
 Choice D is the best answer. The period is used correctly to separate two independent clauses, and the singular pronoun “this” agrees with the singular noun “learning” in the previous sentence.
-Choice A is incorrect because if a semicolon is used to combine two independent clauses, a conjunction isn’t needed. Choice B is incorrect because it results in a comma splice. Choice C is incorrect because the relative pronoun “which” can’t be used as the subject of an independent clause.
+Choice A is incorrect because if a semicolon is used to combine two independent clauses, a conjunction isn't needed. Choice B is incorrect because it results in a comma splice. Choice C is incorrect because the relative pronoun “which” can't be used as the subject of an independent clause.
 As connected as most people are, though, wide divisions *survive throughout the world, with many groups struggling to resolve long-standing conflicts.
 X
 NO CHANGE 
@@ -78,7 +78,7 @@ persevere
 maintain 
 2
 Choice B is the best answer. The word “persist” means “to continue to exist.” The connotation of “persist” implies obstinacy or stubbornness, which is appropriate in the context of discussing the inability of technology to bridge gaps between groups with long-standing conflicts.
-Choices A, C, and D are incorrect because the connotations of these words aren’t appropriate in the context of the paragraph. “Survive” (choice A) means to remain alive or outlive something. “Persevere” (choice C) means to continue doing something in the face of obstacles. “Maintain” (choice D) means to preserve in an existing state.
+Choices A, C, and D are incorrect because the connotations of these words aren't appropriate in the context of the paragraph. “Survive” (choice A) means to remain alive or outlive something. “Persevere” (choice C) means to continue doing something in the face of obstacles. “Maintain” (choice D) means to preserve in an existing state.
 Thanks to the Internet, we are more interconnected now; than at any point in our history. As connected as most people are, though, wide divisions survive throughout the world, with many groups struggling to resolve long-standing conflicts. Technology alone does not seem capable of bridging these gaps. If we want to foster peace and empathy in our global society, it is crucial to bring people together face-to-face. * Cultural diplomacy programs specialize in solving similar problems.
 Which choice most effectively links this sentence with the information in the previous paragraph?
 NO CHANGE 
@@ -87,7 +87,7 @@ facilitating such interactions.
 bringing these people together. 
 3
 Choice C is the best answer. This choice most effectively links this sentence with the information in the previous paragraph since the phrase “such interactions” refers to bringing “people together face-to-face” in the previous sentence. The paragraph then goes on to discuss people coming together face-to-face through the Friends Forever program.
-Choice A is incorrect because “similar problems” is vague and doesn’t clearly refer to the conflicts mentioned in the previous paragraph. Choice B is incorrect because “technological obstacles” aren’t discussed in the previous paragraph. Choice D is incorrect because “these people” is vague and has no referent.
+Choice A is incorrect because “similar problems” is vague and doesn't clearly refer to the conflicts mentioned in the previous paragraph. Choice B is incorrect because “technological obstacles” aren't discussed in the previous paragraph. Choice D is incorrect because “these people” is vague and has no referent.
 Giving up their cell phones and their privacy, participants cohabitate * together in surroundings foreign to all and engage in trust-building activities.
 X
 NO CHANGE 
