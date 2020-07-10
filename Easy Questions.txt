@@ -1,4 +1,4 @@
-As the Mississippi dusk settled on Dockery Farms on Saturday 1 evenings’ in the early 1900s, hundreds would cross a one-lane bridge to hear the blues. There, bluesmen played and sang in a repurposed home they called the Frolicking House.
+﻿As the Mississippi dusk settled on Dockery Farms on Saturday 1 evenings’ in the early 1900s, hundreds would cross a one-lane bridge to hear the blues. There, bluesmen played and sang in a repurposed home they called the Frolicking House.
 X
 NO CHANGE
 evening’s in the early 1900s, hundred’s
@@ -35,7 +35,6 @@ until a change came to
 Choice C is the best answer. Following the comma after “guitar,” the pronoun “which” is used to begin the relative clause describing what happened to Patton and American music as a result of Sloan’s teaching.
 Choice A is incorrect because “while” wrongly indicates either a contrast between Sloan teaching Patton to play guitar and changing Patton’s life and American music, or that the teaching and changing occurred simultaneously. Choice B is incorrect because “so that” wrongly indicates that the purpose of Sloan teaching Patton to play guitar was to result in changing both Patton’s life and American music. Choice D is incorrect because “until” wrongly indicates that Sloan taught Patton to play guitar up to the time that doing so changed Patton’s life and American music.
 Patton, who soon was making enough from his performances to call himself a professional musician, 6 suffered from a heart condition. He spun his guitar while playing and slapped the body of the instrument for rhythmic 7 effect; he even perfected startling tricks like playing behind his head and plucking the strings with his teeth, to the delight of listeners.
-X
 NO CHANGE
 gave guitar lessons to Howlin’ Wolf, another blues musician.
 had a brother who fought in the First World War.
@@ -43,10 +42,6 @@ astonished crowds with his inventive guitar work.
 4
 Choice D is the best answer. This choice most effectively introduces the next sentence’s examples of Patton’s exciting guitar tricks by stating that his inventive style amazed audiences.
 Choices A, B, and C are incorrect because they don’t effectively introduce the next sentence in the paragraph. The examples in the next sentence don’t pertain to Patton’s heart condition (choice A), his teaching (choice B), or his veteran brother (choice C).
- Recording companies 10 began, to take note, of Chicago’s music boom, and by 1926, propelled by the blues’ rising popularity, record sales by African American artists reached $5 million. 
-4
-Choice D is the best answer. No punctuation is needed.
-Choice A is incorrect because setting off “to take note” with a pair of commas indicates that the phrase could be deleted without changing the meaning of the sentence, which isn’t the case. Choices B and C are incorrect because no punctuation is needed between the infinitive “to take note” and the prepositional phrase “of Chicago’s music boom.”
 Unfortunately, the gravitational waves Einstein predicted were 16 so faint and he feared they would never be detected.
 X
 NO CHANGE
