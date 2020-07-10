@@ -99,7 +99,7 @@ public class QuestionData
 	
 	public String getWrong(int num)
 	{
-		return getWrong.get(num);
+		return solWrong.get(num);
 	}	
 }
 
