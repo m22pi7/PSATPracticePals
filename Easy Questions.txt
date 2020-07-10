@@ -14,8 +14,8 @@ Illuminating
 Illustrating
 elucidating
 2
-Choice B is the best answer. The word “illuminating” is the most appropriate choice to indicate that the lanterns’ reflections created a well-lit path for attendees.
-Choices A, C, and D are incorrect because they don’t fit the context of the sentence. “Irradiating” means treating with rays of radiation or light. “Illustrating” means clarifying or decorating with images. “Elucidating” means making clear with explanations.
+Choice B is the best answer. The word “illuminating” is the most appropriate choice to indicate that the lanterns' reflections created a well-lit path for attendees.
+Choices A, C, and D are incorrect because they don't fit the context of the sentence. “Irradiating” means treating with rays of radiation or light. “Illustrating” means clarifying or decorating with images. “Elucidating” means making clear with explanations.
  So began the Delta blues, *  an influential style of music that originated among the African American farmhands of the Delta region of northwest Mississippi and was characterized by uneven rhyme schemes, moaning vocals, and mixes of sung and spoken passages.
 X
 NO CHANGE
@@ -25,14 +25,14 @@ A top-notch
 1
 Choice A is the best answer. The formal tone of the word “influential” is consistent with the formal tone of the rest of the passage.
 Choices B, C, and D are incorrect because the informal tone of “on-point,” “awesome,” and “top-notch” is inconsistent with the formal tone of the rest of the passage.
-At Dockery, Patton met Henry Sloan, about whom little is known except that he taught Patton to play guitar, *  while that changed both Patton’s life and American music.
+At Dockery, Patton met Henry Sloan, about whom little is known except that he taught Patton to play guitar, *  while that changed both Patton's life and American music.
 X
 NO CHANGE
 so that it ended up changing
 which would change
 until a change came to 
 3
-Choice C is the best answer. Following the comma after “guitar,” the pronoun “which” is used to begin the relative clause describing what happened to Patton and American music as a result of Sloan’s teaching.
+Choice C is the best answer. Following the comma after “guitar,” the pronoun “which” is used to begin the relative clause describing what happened to Patton and American music as a result of Sloan's teaching.
 Choice A is incorrect because “while” wrongly indicates either a contrast between Sloan teaching Patton to play guitar and changing Patton's life and American music, or that the teaching and changing occurred simultaneously. Choice B is incorrect because “so that” wrongly indicates that the purpose of Sloan teaching Patton to play guitar was to result in changing both Patton's life and American music. Choice D is incorrect because “until” wrongly indicates that Sloan taught Patton to play guitar up to the time that doing so changed Patton's life and American music.
 Patton, who soon was making enough from his performances to call himself a professional musician, *  suffered from a heart condition. He spun his guitar while playing and slapped the body of the instrument for rhythmic *  effect; he even perfected startling tricks like playing behind his head and plucking the strings with his teeth, to the delight of listeners.
 X
@@ -41,8 +41,8 @@ gave guitar lessons to Howlin' Wolf, another blues musician.
 had a brother who fought in the First World War.
 astonished crowds with his inventive guitar work.
 4
-Choice D is the best answer. This choice most effectively introduces the next sentence’s examples of Patton's exciting guitar tricks by stating that his inventive style amazed audiences.
-Choices A, B, and C are incorrect because they don’t effectively introduce the next sentence in the paragraph. The examples in the next sentence don't pertain to Patton's heart condition (choice A), his teaching (choice B), or his veteran brother (choice C).
+Choice D is the best answer. This choice most effectively introduces the next sentence's examples of Patton's exciting guitar tricks by stating that his inventive style amazed audiences.
+Choices A, B, and C are incorrect because they don't effectively introduce the next sentence in the paragraph. The examples in the next sentence don't pertain to Patton's heart condition (choice A), his teaching (choice B), or his veteran brother (choice C).
 Unfortunately, the gravitational waves Einstein predicted were *  so faint and he feared they would never be detected.
 X
 NO CHANGE
@@ -52,16 +52,16 @@ faint so that
 3
 Choice C is the best answer. The construction “so [adjective] that” is an idiomatic way to express a consequence as a result of degree; in this case, the consequence of the extreme faintness of the waves was that they might never be detected.
 Choices A, B, and D are incorrect because they aren't idiomatic ways to express consequence as a result of degree.
-In 1916, thinking about the acceleration of massive objects through what he termed space-time (the so-called “fabric” of the universe, combining the three dimensions of space with time), *  Einstein’s conclusion was that the objects' motion would create ripples, or waves, in space-time. 
+In 1916, thinking about the acceleration of massive objects through what he termed space-time (the so-called “fabric” of the universe, combining the three dimensions of space with time), *  Einstein's conclusion was that the objects' motion would create ripples, or waves, in space-time. 
 X
 NO CHANGE
 Einstein concluded that the motion of the objects
-the objects’ motion, concluded Einstein,
+the objects' motion, concluded Einstein,
 the motion of the objects, Einstein concluded,
 2
 Choice B is the best answer. This choice places the subject of the sentence, “Einstein,” next to the modifying phrase that describes his thinking.
 Choices A, C, and D are incorrect because, owing to the dangling modifiers, the resulting sentences illogically suggest that “Einstein's conclusion,” “the objects' motion,” and “the motion of the objects” thought about the acceleration of massive objects through space-time.
-By 2015, *  however, the twin facilities of LIGO *  have achieved a level of sensitivity that would allow Einstein’s ideas about gravitational waves to be tested empirically. 
+By 2015, *  however, the twin facilities of LIGO *  have achieved a level of sensitivity that would allow Einstein's ideas about gravitational waves to be tested empirically. 
 X
 NO CHANGE
 moreover, 
@@ -70,7 +70,7 @@ then,
 1
 Choice A is the best answer. The transitional word “however” shows the true relationship between the previous sentence and this sentence. Despite Einstein's fears that gravitational waves would always elude detection, in 2015 the LIGO facilities were capable of wave-detecting experiments.
 Choices B, C, and D are incorrect because none of these transitional words shows the true relationship between the previous sentence and this sentence. “Moreover” indicates that an additional example is being provided. “Therefore” introduces the result of the previous event. “Then” is used to transition to the next chronological event.
-Only a CNS can work in highly specialized fields such as medical nutrition 41 therapy. Medical nutrition therapy uses nutrition science to treat existing medical conditions (for example, to identify patients’ food allergies or manage sugar levels of people with diabetes).
+Only a CNS can work in highly specialized fields such as medical nutrition 41 therapy. Medical nutrition therapy uses nutrition science to treat existing medical conditions (for example, to identify patients' food allergies or manage sugar levels of people with diabetes).
 X
 therapy, and this therapy
 therapy, which
@@ -84,7 +84,7 @@ The writer is considering deleting the underlined portion and ending the sentenc
 Kept, because it introduces a key term in the passage, “gravitational waves,” which sets up the information that follows.
 Kept, because it helps the reader understand the relationship between gravitational waves and gravity.
 Deleted, because it is redundant in combination with the rest of the information about gravitational waves in the passage.
-Deleted, because it mentions gravitational waves’ “form,” which is only loosely relevant at this point in the passage.
+Deleted, because it mentions gravitational waves' “form,” which is only loosely relevant at this point in the passage.
 1
 Choice A is the best answer. The underlined portion should be kept because it introduces the term “gravitational waves,” which is the main focus of the passage. Additionally, “gravitational waves” clearly indicates which waves are described in the following sentence. 
 Choice B is incorrect. The underlined portion should be kept, but not because it describes the relationship between gravitational waves and gravity. Choices C and D are incorrect because the underlined portion should be kept. The phrase neither repeats information from elsewhere in the passage nor mentions irrelevant information at this point in the passage.
@@ -113,5 +113,5 @@ moreover,
 therefore,
 then,
 1
-Choice A is the best answer. The transitional word “however” shows the true relationship between the previous sentence and this sentence. Despite Einstein’s fears that gravitational waves would always elude detection, in 2015 the LIGO facilities were capable of wave-detecting experiments.
+Choice A is the best answer. The transitional word “however” shows the true relationship between the previous sentence and this sentence. Despite Einstein's fears that gravitational waves would always elude detection, in 2015 the LIGO facilities were capable of wave-detecting experiments.
 Choices B, C, and D are incorrect because none of these transitional words shows the true relationship between the previous sentence and this sentence. “Moreover” indicates that an additional example is being provided. “Therefore” introduces the result of the previous event. “Then” is used to transition to the next chronological event.
