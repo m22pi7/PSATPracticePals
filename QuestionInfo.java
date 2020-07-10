@@ -43,6 +43,13 @@ public class QuestionData
 	
 	public QuestionData(int difficulty) throws IOException
 	{
+		questionContext = new ArrayList<String>();
+		questionWording = new ArrayList<String>();
+		answers = new ArrayList<String[]>();
+		correctAns = new ArrayList<Integer>();
+		solCorrect = new ArrayList<String>();
+		solWrong = new ArrayList<String>();
+		
 		if(difficulty == 1)
 			questionParse = new BufferedReader(new FileReader("")); //easy text file name
 		if(difficulty == 2)
