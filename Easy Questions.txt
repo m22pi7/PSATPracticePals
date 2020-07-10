@@ -79,7 +79,7 @@ therapy; as a therapy, it
 2
 Choice B is the best answer. This choice effectively combines the sentences without repeating or deleting important information or changing the intended meaning of the sentence. Following the comma after “therapy,” the pronoun “which” is used to begin the relative clause describing medical nutrition therapy.
 Choices A and D are incorrect because the repetition of the word “therapy” is redundant. Choice C is incorrect because the pronoun “it” lacks a clear antecedent, resulting in a confusing sentence.
-Roughly a billion years ago, and roughly a billion light-years from Earth, two massive black holes spiraled inward and merged. In the early morning hours of September 14, 2015, evidence of the collision arrived on Earth 1in the form of gravitational waves. The detection of the waves, which travel at the speed of light, was the culmination of years of work and resulted in both excitement and a sense of validation among the researchers at the Laser Interferometer Gravitational-Wave Observatory, or LIGO. “This is the signal that we wanted to see from the beginning of this whole quest,” said   physicist, Rainer Weiss, inventor of the measuring technique used by LIGO.
+Roughly a billion years ago, and roughly a billion light-years from Earth, two massive black holes spiraled inward and merged. In the early morning hours of September 14, 2015, evidence of the collision arrived on Earth *in the form of gravitational waves. The detection of the waves, which travel at the speed of light, was the culmination of years of work and resulted in both excitement and a sense of validation among the researchers at the Laser Interferometer Gravitational-Wave Observatory, or LIGO. “This is the signal that we wanted to see from the beginning of this whole quest,” said   physicist, Rainer Weiss, inventor of the measuring technique used by LIGO.
 The writer is considering deleting the underlined portion and ending the sentence with “Earth.” Should the underlined portion be kept or deleted?
 Kept, because it introduces a key term in the passage, “gravitational waves,” which sets up the information that follows.
 Kept, because it helps the reader understand the relationship between gravitational waves and gravity.
@@ -88,7 +88,7 @@ Deleted, because it mentions gravitational waves’ “form,” which is only lo
 1
 Choice A is the best answer. The underlined portion should be kept because it introduces the term “gravitational waves,” which is the main focus of the passage. Additionally, “gravitational waves” clearly indicates which waves are described in the following sentence. 
 Choice B is incorrect. The underlined portion should be kept, but not because it describes the relationship between gravitational waves and gravity. Choices C and D are incorrect because the underlined portion should be kept. The phrase neither repeats information from elsewhere in the passage nor mentions irrelevant information at this point in the passage.
-It also proved something Albert Einstein had hypothesized almost one hundred years earlier. In 1916, thinking about the acceleration of massive objects through what he termed space-time (the so-called “fabric” of the universe, combining the three dimensions of space with time), Einstein's conclusion was that the objects' motion would create ripples, or waves, in space-time. Unfortunately, the gravitational waves Einstein predicted were so faint and he feared they would never be detected.
+It also proved something Albert Einstein had hypothesized almost one hundred years earlier. In 1916, thinking about the acceleration of massive objects through what he termed space-time (the so-called “fabric” of the universe, combining the three dimensions of space with time), *Einstein's conclusion was that the objects' motion would create ripples, or waves, in space-time. Unfortunately, the gravitational waves Einstein predicted were so faint and he feared they would never be detected.
 X 
 NO CHANGE
 Einstein concluded that the motion of the objects
@@ -97,7 +97,7 @@ the motion of the objects, Einstein concluded,
 2
 Choice B is the best answer. This choice places the subject of the sentence, “Einstein,” next to the modifying phrase that describes his thinking.
 Choices A, C, and D are incorrect because, owing to the dangling modifiers, the resulting sentences illogically suggest that “Einstein's conclusion,” “the objects' motion,” and “the motion of the objects” thought about the acceleration of massive objects through space-time.
-Unfortunately, the gravitational waves Einstein predicted were so faint and he feared they would never be detected.
+Unfortunately, the gravitational waves Einstein predicted were *so faint and he feared they would never be detected.
 X
 NO CHANGE
 faint and so
