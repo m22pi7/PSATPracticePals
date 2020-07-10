@@ -39,15 +39,16 @@ public class QuestionData
 	private ArrayList<Integer> correctAns;
 	private ArrayList<String> solCorrect;
 	private ArrayList<String> solWrong;
+	private BufferedReader questionParse;
 	
 	public QuestionData(int difficulty) throws IOException
 	{
 		if(difficulty == 1)
-			BufferedReader questionParse = new BufferedReader(new FileReader("")); //easy text file name
+			questionParse = new BufferedReader(new FileReader("")); //easy text file name
 		if(difficulty == 2)
-			BufferedReader questionParse = new BufferedReader(new FileReader("")); //medium text file name
+			questionParse = new BufferedReader(new FileReader("")); //medium text file name
 		if(difficulty == 3)
-			BufferedReader questionParse = new BufferedReader(new FileReader("")); //hard text file name
+			questionParse = new BufferedReader(new FileReader("")); //hard text file name
 		
 		String line = null;
 		while((line = questionParse.readLine()) != null)
@@ -71,32 +72,32 @@ public class QuestionData
 		}
 	}
 	
-	private String getContext(int num)
+	public String getContext(int num)
 	{
 		return questionContext.get(num);
 	}
 	
-	private String getWording(int num)
+	public String getWording(int num)
 	{
 		return questionWording.get(num);
 	}
 	
-	private String[] getAnswers(int num)
+	public String[] getAnswers(int num)
 	{
 		return answers.get(num);
 	}
 	
-	private int getAns(int num)
+	public int getAns(int num)
 	{
 		return correctAns.get(num);
 	}
 	
-	private String getCorrect(int num)
+	public String getCorrect(int num)
 	{
 		return solCorrect.get(num);
 	}
 	
-	private String getWrong(int num)
+	public String getWrong(int num)
 	{
 		return getWrong.get(num);
 	}	
