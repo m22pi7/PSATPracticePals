@@ -31,10 +31,5 @@ public class ScoreEstimation
 		}
 		return (int) score;
 	}
-	public static void main(String[] args) 
-	{
-		
-		
-	}
 
 }
