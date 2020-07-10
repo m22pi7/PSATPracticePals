@@ -1,5 +1,5 @@
-# TestBenchmark
-HackTheLib project TestBenchmark
+# PSATPracticePals
+HackTheLib project PSATPracticePals
 
 Category: Best Original
 
