@@ -7,7 +7,7 @@ public class QuestionInfo
 	private QuestionData dataMedium;
 	private QuestionData dataHard;
 	
-	public QuestionInfo()
+	public QuestionInfo() throws IOException
 	{
 		dataEasy = new QuestionData(1);
 		dataMedium = new QuestionData(2);
@@ -24,7 +24,7 @@ public class QuestionInfo
 		{
 			return new Question(dataMedium.getContext(num), dataMedium.getWording(num), dataMedium.getAnswers(num), dataMedium.getAns(num), dataMedium.getCorrect(num), dataMedium.getWrong(num));
 		}
-		else if(difficulty == 3)
+		else 
 		{
 			return new Question(dataHard.getContext(num), dataHard.getWording(num), dataHard.getAnswers(num), dataHard.getAns(num), dataHard.getCorrect(num), dataHard.getWrong(num));
 		}
